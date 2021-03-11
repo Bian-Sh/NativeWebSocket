@@ -1,6 +1,7 @@
 <img src="Media/header.png?raw=true" alt="Native WebSocket" />
 <img src="Media/Interface.png?raw=true" alt="Native WebSocket" />
 丰富了交互体验：
+
 1. 服务器不再是疯狂推送随机二进制了，以可做应答
 2. 客户端不再是运行就自动连接了，可以通过 UI 自主连接和断开，同时支持更换 主机地址了
 欢迎使用通用在线测试地址：wss://echo.websocket.org
